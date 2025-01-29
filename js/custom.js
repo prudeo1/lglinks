@@ -12,8 +12,8 @@
       $('.hero-slides').vegas({
           slides: [
               { src: 'images/slides/farm.jpg' },
-              { src: 'images/slides/field.jpg' },
-              { src: 'images/slides/plantain.jpg' }
+              { src: 'images/solar.jpg' },
+              { src: 'images/team/vegi.jpeg' }
           ],
           timer: false,
           animation: 'kenburns',
